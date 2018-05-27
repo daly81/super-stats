@@ -18,7 +18,8 @@ export class Items {
       {
         "name": "Burt Bear",
         "profilePic": "assets/img/speakers/bear.jpg",
-        "about": "Burt is a Bear."
+        "about": "Burt is a Bear.",
+        "note": "THIS IS A TEST."
       },
       {
         "name": "Charlie Cheetah",
